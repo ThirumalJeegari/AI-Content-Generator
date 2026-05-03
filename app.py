@@ -3,7 +3,7 @@ from llm_helper import generate_content
 
 st.set_page_config(page_title="AI Content Generator", layout="centered")
 
-st.title("✍️ AI Content Generator (Groq)")
+st.title("✍️ AI Content Generator")
 
 topic = st.text_input("Enter your topic")
 
